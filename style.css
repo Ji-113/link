@@ -11,6 +11,10 @@ h1 {
   margin: 3rem;
 }
 
+h3{
+  text-align: center;
+}
+
 #stopwatch,#timer,#clock,#alarm {
   a.btn_25 {
 	display: flex;
