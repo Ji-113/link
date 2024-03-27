@@ -15,7 +15,7 @@ h3{
   text-align: center;
 }
 
-#stopwatch,#timer,#clock,#alarm {
+#stopwatch,#timer,#clock,#alarm,#form {
   a.btn_25 {
 	display: flex;
 	justify-content: center;
