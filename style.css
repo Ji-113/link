@@ -15,7 +15,7 @@ p{
   text-align: center;
 }
 
-#stopwatch,#timer,#clock,#alarm,#form {
+#stopwatch,#timer,#clock,#alarm,#memo,#countdown,#form {
   a.btn_25 {
 	display: flex;
 	justify-content: center;
